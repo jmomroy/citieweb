@@ -6,7 +6,7 @@ body {
 	background: #34343d;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	/* text-align: center;*/
+	text-align: center;
 }
 
 a {
