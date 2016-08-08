@@ -134,7 +134,7 @@ _________________________________________________________ -->
 			<div class="background">
 
 				<canvas class="background__canvas" width="1288" height="287" style="width: 2431.11120605469px; height: 618.888916015625px;"></canvas>	
-				<canvas class="background__title background__title--big" width="1727" height="56" style="width: 1920px; height: 63px;"></canvas>
+				<canvas class="background__title background__title--big" width="1727" height="56" style="width: 1920px; height: 163px;"></canvas>
 				<canvas class="background__title background__title--medium" data-breakpoint="8000" width="1675" height="41" style="width: 1862px; height: 63px;"></canvas>
 				<canvas class="background__title background__title--small" data-breakpoint="1600" width="1634" height="30" style="width: 1816px; height: 90px;"></canvas> 
 			</div>
@@ -167,17 +167,19 @@ _________________________________________________________ -->
 		</div>
 		<header class="intro">
 			<div class="intro__content">
+</div>
 <!-- ***imagen banner *** -->
-<img src="img/logo1.png" border="0" width="10" height="10">
 
+<!--
+<img src="img/logo1.png" border="0" width="10" height="10">
 			<p class="intro__text">Primer <strong>Congreso Internacional de tendencias e innovacion educativa</strong>, Arequipa 2016 <strong>Rational Geographic</strong>.</p>
 			 </div>
 			<div class="intro__content intro__content--pater">
 				<p class="intro__text"><strong>UNSA <a href="https://goo.gl/XPyVyW" rel="nofollow">CONCYTEC</a>, too?</strong>
 					<br /> about. <a href="https://goo.gl/XPyVyW" rel="nofollow">Apply now</a>.</p>
 			</div>
-		</header>
-<script src="js/banner/desert.js"></script>
+		</header> 
+<script src="js/banner/desert.js"></script> -->
 
         <!-- *** INTRO IMAGE *** -->
 
