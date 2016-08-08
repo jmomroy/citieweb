@@ -59,7 +59,7 @@ a:focus {
 }
 
 .background__canvas {
-	/* position: absolute;*/
+	position: absolute;
 	z-index: 10;
 }
 

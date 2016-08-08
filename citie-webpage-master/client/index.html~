@@ -128,36 +128,42 @@ _________________________________________________________ -->
         <!-- *** INTRO IMAGE ***-->
 
 
+
 <div class="wrap">
+
 			<div class="background">
-				<canvas class="background__canvas" width="1288" height="287" style="width: 2431.11120605469px; height: 618.888916015625px;"></canvas>
+
+				<canvas class="background__canvas" width="1288" height="287" style="width: 2431.11120605469px; height: 618.888916015625px;"></canvas>	
 				<canvas class="background__title background__title--big" width="1727" height="56" style="width: 1920px; height: 63px;"></canvas>
-				<canvas class="background__title background__title--medium" data-breakpoint="8000" width="1675" height="41" style="width: 1862px; height: 46px;"></canvas>
-				 <canvas class="background__title background__title--small" data-breakpoint="1600" width="1634" height="30" style="width: 1816px; height: 34px;"></canvas> 
+				<canvas class="background__title background__title--medium" data-breakpoint="8000" width="1675" height="41" style="width: 1862px; height: 63px;"></canvas>
+				<canvas class="background__title background__title--small" data-breakpoint="1600" width="1634" height="30" style="width: 1816px; height: 90px;"></canvas> 
 			</div>
+
 			<!-- this is a dummy navigation; the effect of the "Africa" word is done in the canvas, not this nav -->
 			
 <header class="intro">
 			<div class="intro__content">
-				<p class="intro__text">Online portfolio of <strong>Thomas Smith</strong>, professional wildlife photographer for <strong>Rational Geographic</strong>.</p>
+				<img src="img/logo1.png" border="0" width="120" height="70">	
+			<!-- <p class="intro__text">Online portfolio of <strong>Thomas Smith</strong>, professional wildlife photographer for <strong>Rational Geographic</strong>.</p> -->
 			</div>
 			<div class="intro__content intro__content--pater">
-				<p class="intro__text"><strong>Want the <a href="https://goo.gl/XPyVyW" rel="nofollow">perfect job</a>, too?</strong>
-					<br /> Let Hired help you find a company you are passionate about. <a href="https://goo.gl/XPyVyW" rel="nofollow">Apply now</a>.</p>
+				<img src="img/logo-cabecera.png" border="0" width="600" height="70">					
+				<!-- <p class="intro__text"><strong>Want the <a href="https://goo.gl/XPyVyW" rel="nofollow">perfect job</a>, too?</strong>
+					<br /> Let Hired help you find a company you are passionate about. <a href="https://goo.gl/XPyVyW" rel="nofollow">Apply now</a>.</p> -->
 			</div>
 		</header>
 
         <!-- *** INTRO IMAGE *** -->
 <nav class="dummynav">
-				<!-- <span class="dummynav__item">Asia</span> -->
+				<!-- <span class="dummynav__item">Asia</span> --> 
 				<span class="dummynav__item dummynav__item--active">Perú</span> 
 				<span class="dummynav__item">Finlandia</span>
 				<span class="dummynav__item">Cuba</span>
 				<span class="dummynav__item">España</span>
 				<span class="dummynav__item">Chile</span>
-				<span class="dummynav__item">Brasil</span>
+				<span class="dummynav__item">Brasil</span> 
 			</nav>
-        
+      
 		</div>
 		<header class="intro">
 			<div class="intro__content">
